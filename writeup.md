@@ -22,7 +22,7 @@ Assumptions:
 [image7]: ./outputs/Output_extrapolated_lines.jpg
 [image8]: ./outputs/output_images1.jpg
 [image9]: ./outputs/output_images2.jpg 
-[image10]: ./outputs/challenge_images.jpg 
+[image10]: ./outputs/challenge_image.jpg 
 
 [video1]: ./test_videos_output/white_output.mp4
 [video2]: ./test_videos_output/yellow_output.mp4
