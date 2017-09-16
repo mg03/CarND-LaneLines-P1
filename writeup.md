@@ -90,7 +90,7 @@ The original pictures are in `test_images`and the results are located in the fol
 ### Videos
 Test videos and results:   
 
-Location of output video files: [video1]![alt text][video1], [video2]![alt text][video2].
+Location of output video files: [link to video1]![alt text][video1], [link to video2]![alt text][video2].
 
 ### Challenge
 
