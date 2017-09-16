@@ -22,6 +22,7 @@ Assumptions:
 [image7]: ./outputs/Output_extrapolated_lines.jpg
 [image8]: ./outputs/output_images1.jpg
 [image9]: ./outputs/output_images2.jpg 
+[image10]: ./outputs/challenge_images.jpg 
 
 [video1]: ./test_videos_output/white_output.mp4
 [video2]: ./test_videos_output/yellow_output.mp4
@@ -91,6 +92,13 @@ Test videos and results:
 
 Location of output video files: [video1]![alt text][video1], [video2]![alt text][video2].
 
+### Challenge
+
+I didnt solve for the entire video but just took a frame from it and applied the pipeline to it
+
+![alt text][image10] 
+
+I think given time/conviction I could refine the pipeline to work with the challenge video
 
 ###2. Identify potential shortcomings with your current pipeline
 
